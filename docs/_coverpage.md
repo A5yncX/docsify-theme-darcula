@@ -10,3 +10,5 @@
 
 [GitHub](https://github.com/docsifyjs/docsify/)
 [Getting Started](readme)
+
+![color]()
