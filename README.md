@@ -7,6 +7,10 @@
 * 开箱即用,本地已集成搜索/emoji/部分代码高亮
 
 ## 使用方法
+在你的项目中引用
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/A5yncX/docsify-theme-darcula@v1.0/darcula.css">
+```
 1. 下载`darcula.css`使用即可
 2. 额外下载`index.html`进行覆盖/配制. 或请直接下载本库并进行编辑.
 
